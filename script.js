@@ -35,7 +35,7 @@ const quickAccessItems = [
     href: "https://drive.google.com",
   },
   {
-    title: "Master Template Document",
+    title: "Document Templates",
     description:
       "Pusat dokumen untuk menyatukan template, form, dan lampiran revisi versi terbaru.",
     action: "Akses folder",
