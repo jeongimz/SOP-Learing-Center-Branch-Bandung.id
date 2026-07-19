@@ -32,7 +32,7 @@ const quickAccessItems = [
     description:
       "Struktur arsip digital agar dokumen tersimpan konsisten, mudah dicari, dan siap audit.",
     action: "Buka struktur",
-    href: "https://drive.google.com",
+    href: "https://docs.google.com/spreadsheets/d/1UgkKYsPIuOSeUSN3TgpkagB0h2qAsBASele5ps6XJNQ/edit?usp=sharing",
   },
   {
     title: "Document Templates",
