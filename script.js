@@ -3,11 +3,11 @@ const quickAccessItems = [
     title: "Payment Reference ID",
     description:
       "Nomor referensi pembayaran untuk memudahkan pencocokan transaksi dan bukti administrasi.",
-    action: "Buka referensi",
-    href: "https://drive.google.com",
+    action: "Buka Form",
+    href: "https://docs.google.com/spreadsheets/d/1TDPlmaoZPdYi0ZbC5VpVik35wcVa2m-MKFbobLXCX_4/edit?usp=sharing",
   },
   {
-    title: "Renewal Monitoring Mitra",
+    title: "Monitoring Mitra",
     description:
       "Ringkasan monitoring perpanjangan kerja sama sekolah, status follow-up, dan tenggat aksi.",
     action: "Lihat megasheet",
@@ -17,8 +17,8 @@ const quickAccessItems = [
     title: "Change Request Form",
     description:
       "Form baku untuk mengajukan perubahan dokumen, jadwal, atau penyesuaian proses kerja.",
-    action: "Unduh form",
-    href: "pdf/3.pdf",
+    action: "Buka Template",
+    href: "https://docs.google.com/document/d/14SvDejvojsPvcUJE_iuRuW0qc1BEOyIn591qt5V5cZU/edit?usp=sharing",
   },
   {
     title: "Project Completion Report",
