@@ -24,8 +24,8 @@ const quickAccessItems = [
     title: "Project Completion Report",
     description:
       "Template laporan penyelesaian kegiatan dan evaluasi hasil implementasi administrasi.",
-    action: "Unduh laporan",
-    href: "pdf/5.pdf",
+    action: "Buka Template",
+    href: "https://www.canva.com/design/DAG6VavbE3k/BdUhtnh1VvL54JD_Vot0DA/edit",
   },
   {
     title: "Digital Archive Structure",
