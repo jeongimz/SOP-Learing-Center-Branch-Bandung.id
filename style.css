@@ -136,16 +136,20 @@ a {
   color: var(--muted);
   font-size: 0.8rem;
 }
-
 .brand-mark {
-  width: 12.8rem;
-  height: 2.8rem;
-  border-radius: 18px;
-  object-fit: contain;
-  padding: 4px;
+  width: 2.75rem;
+  height: 2.75rem;
+  border-radius: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, #0e8ea1, #14b8c9); /* sesuaikan warna brand */
+  color: #fff;
+  font-family: "Space Grotesk", sans-serif;
+  font-weight: 700;
+  font-size: 1.1rem;
   box-shadow: 0 12px 22px rgba(14, 142, 161, 0.28);
 }
-
 .nav {
   display: flex;
   align-items: center;
