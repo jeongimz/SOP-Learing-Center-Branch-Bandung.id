@@ -35,7 +35,7 @@ const quickAccessItems = [
     href: "https://drive.google.com",
   },
   {
-    title: "SOP Master Folder",
+    title: "Master Template Document",
     description:
       "Pusat dokumen untuk menyatukan template, form, dan lampiran revisi versi terbaru.",
     action: "Akses folder",
