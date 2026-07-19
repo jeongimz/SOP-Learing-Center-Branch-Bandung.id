@@ -1013,8 +1013,8 @@ function renderSopPage(sopId) {
           </div>
 
           <div class="template-actions">
-            <a class="button primary" href="${sop.templatePdf}" target="_blank" rel="noreferrer">Download template/form</a>
-            <a class="button secondary" href="https://drive.google.com" target="_blank" rel="noreferrer">Open template folder</a>
+            <a class="button primary" href="${sop.templatePdf}" target="_blank" rel="noreferrer">Download PDF SOP/form</a>
+            <a class="button secondary" href="https://drive.google.com/drive/folders/1U0-ir5Tkxr20-MLisprV0yK8vAs4hRu3?usp=sharing" target="_blank" rel="noreferrer">Open template folder</a>
           </div>
 
           <div class="support-box">
