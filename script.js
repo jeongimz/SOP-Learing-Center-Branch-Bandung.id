@@ -28,7 +28,7 @@ const quickAccessItems = [
     href: "https://www.canva.com/design/DAG6VavbE3k/BdUhtnh1VvL54JD_Vot0DA/edit",
   },
   {
-    title: "Worksheet Arsip Digital",
+    title: "Worksheet Penyimpanan Arsip Digital",
     description:
       "Struktur arsip digital agar dokumen tersimpan konsisten, mudah dicari, dan siap audit.",
     action: "Buka struktur",
